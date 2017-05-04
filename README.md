@@ -4,6 +4,8 @@ Completing [React and D3 workshop](http://react-and-d3.github.io/react-and-d3-wo
 
 Used [Meteor](https://www.meteor.com/) for platform.
 
+View [demo](https://meteor-react-d3.herokuapp.com/)
+
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
