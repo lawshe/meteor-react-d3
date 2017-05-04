@@ -11,6 +11,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 - [Node.js](https://nodejs.org/en/)
 - [npm](https://www.npmjs.com/)
+- [Meteor](https://www.meteor.com/install)
 
 ### Installing
 Clone the repository
